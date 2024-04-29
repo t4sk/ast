@@ -1,6 +1,7 @@
 # ast
 
 ```shell
+npx ts-node src/index.ts
 forge build --ast
 ```
 
